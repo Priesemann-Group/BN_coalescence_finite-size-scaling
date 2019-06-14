@@ -1,4 +1,4 @@
-# BN_coalescence_finite-size-scaling
+# Finite-size scaling analysis of branching network (Directed Percolation with coalescence)
 Code used to generate 'Description of spreading dynamics by microscopic network models and macroscopic branching processes can differ due to coalescence'
 
 Code used to generate data for the publication
